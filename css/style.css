@@ -4,12 +4,9 @@
 	box-sizing: border-box;
 }
 
-html {
-   font-size: 16px;
-	line-height: 1.334;
-   font-weight: 600;
+html { font-size: 16px; line-height: 1.334; F font-weight: 600;
 }
-
+Fix 228
 body {
    margin: 0;
 }
